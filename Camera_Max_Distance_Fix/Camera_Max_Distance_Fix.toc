@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: |cffff7d0aCamera Max Distance Fix|r |cff00aa00v1.0|r
+## Notes: Extends the camera's distance from the player. Repo: |cff69ccf0github.com/d3m37r4/Camera_Max_Distance_Fix|r
+## Author: d3m37r4
+## Version: 1.0
+
+Main.lua
